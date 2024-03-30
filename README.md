@@ -1,2 +1,1 @@
-# unix.os
-Unix Operating System
+# Unix Operating System
